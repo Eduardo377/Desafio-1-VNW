@@ -8,7 +8,7 @@ Este projeto faz parte de um desafio proposto. O objetivo é desenvolver uma est
 Este projeto foi desenvolvido como parte de um desafio de estruturação semântica de uma página HTML, com o objetivo de organizar o conteúdo sobre o filme **"Garfield: Fora de Casa"**. Utilizamos tags semânticas apropriadas para o cabeçalho, conteúdo principal e rodapé, conforme as instruções fornecidas.
 
 ### 🎬 Link do Projeto
-Acesse o projeto no GitHub Pages: [Garfield: Fora de Casa](https://eduardo377.github.io/Desafio-1-VNW/)
+Acesse o projeto no GitHub Pages: [Garfield: Fora de Casa](https://desafio-1-vnw.vercel.app//)
 
 ## 🎯 Objetivo do Desafio
 
@@ -54,7 +54,7 @@ Para o design e organização visual, foi utilizado um protótipo no Figma forne
 1. Clone este repositório:
    ```bash
    git clone https://github.com/Eduardo377/Desafio-1-VNW.git
-
+   ```
 2. Abra o arquivo index.html no seu navegador
 
 ## 📂 Estrutura de Arquivos
