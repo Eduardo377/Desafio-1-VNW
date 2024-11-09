@@ -45,6 +45,7 @@ Para o design e organização visual, foi utilizado um protótipo no Figma forne
 
 ## 🚀 Tecnologias Utilizadas
 - **HTML5**: Para estruturação e semântica do conteúdo.
+- **CSS3**: Para estilização visual.
 - **GitHub Pages**: Para o deploy e publicação do projeto.
 - **Figma**: Protótipo disponibilizado para guia visual da página.
 
