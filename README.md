@@ -79,5 +79,8 @@ Desenvolvido por <b> Eduardo Gomes Andrade. </b>
 
 ## 📫 Contato
 
-- **LinkedIn**: [Eduardo Gomes](https://www.linkedin.com/in/eduardogomes377/)
-- **GitHub**: [Eduardo377](https://github.com/Eduardo377)
+<p>
+    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/35434628?v=4"/>
+    <p>&nbsp&nbsp&nbsp Eduardo G.<br>
+    &nbsp;<a href="https://github.com/Eduardo377">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/eduardogomes377/">LinkedIn</a>&nbsp;</p>
+</p>
