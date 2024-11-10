@@ -59,10 +59,15 @@ Para o design e organização visual, foi utilizado um protótipo no Figma forne
 
 ## 📂 Estrutura de Arquivos
 
+```bash
 Desafio-1-VNW/
-├── index.html            # Página principal do projeto
-├── /img                  # Pasta com as imagens utilizadas
-└── README.md             # Documentação do projeto
+├── index.html             Página principal do projeto
+├── /img                   Pasta com as imagens utilizadas
+├── README.md              Documentação do projeto
+├── .gitignone             Arquivo para ignorar arquivos desnecessários
+├── /styles                Pasta com os estilos do projeto
+└── LICENSE.txt            Licença do projeto
+```
 
 ## 📜 Licença
 
