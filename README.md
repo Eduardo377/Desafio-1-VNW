@@ -59,10 +59,14 @@ Para o design e organização visual, foi utilizado um protótipo no Figma forne
 
 ## 📂 Estrutura de Arquivos
 
+```bash
 Desafio-1-VNW/
-├── index.html            # Página principal do projeto
-├── /img                  # Pasta com as imagens utilizadas
-└── README.md             # Documentação do projeto
+├── index.html             Página principal do projeto
+├── /img                   Pasta com as imagens utilizadas
+├── README.md              Documentação do projeto
+├── .gitignone             arquivo para ignorar arquivos desnecessarios
+└── LICENSE.txt            licença do projeto
+```
 
 ## 📜 Licença
 
@@ -70,9 +74,12 @@ Este projeto foi desenvolvido para fins educativos e não possui fins comerciais
 
 ___
 
-Desenvolvido por <b> Eduardo Gomes Andrade. </b> 
+Desenvolvido por <b> Eduardo G. Andrade. </b> 
 
 ## 📫 Contato
 
-- **LinkedIn**: [Eduardo Gomes](https://www.linkedin.com/in/eduardogomes377/)
-- **GitHub**: [Eduardo377](https://github.com/Eduardo377)
+<p>
+    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/35434628?v=4"/>
+    <p>&nbsp&nbsp&nbsp Eduardo G.<br>
+    &nbsp;<a href="https://github.com/Eduardo377">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/eduardogomes377/">LinkedIn</a>&nbsp;</p>
+</p>
