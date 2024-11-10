@@ -60,9 +60,9 @@ Para o design e organização visual, foi utilizado um protótipo no Figma forne
 ## 📂 Estrutura de Arquivos
 
 Desafio-1-VNW/
-├── index.html            # Página principal do projeto
-├── /img                  # Pasta com as imagens utilizadas
-└── README.md             # Documentação do projeto
+├── index.html            - Página principal do projeto
+├── /img                  - Pasta com as imagens utilizadas
+└── README.md             - Documentação do projeto
 
 ## 📜 Licença
 
